@@ -1,0 +1,1 @@
+# 5. Displays a rank in the defined dictionary.   a) Create a dictionary, rank = {1:"Freshman", 2:"Sophmore", 3:"Junior", 4:"Senior"} b) Request a user input for a number of years. c) Print the value of the matching key in the dictionary. d) Print the error message if input is invalid.
